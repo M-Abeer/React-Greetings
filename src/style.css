@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: aquamarine;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.primary {
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 80px;
+}
+
+.a {
+  color: salmon;
+}
